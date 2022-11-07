@@ -10,3 +10,5 @@
 <div align="center">
     <img style="height:100%;width:100%; display:inline-block;" src="https://github.com/ChristianChenLiu/ReadmeAssets/blob/main/How_it_works.png" width="250" heigh="250" title="smashing-keyboard">
 </div> 
+
+<h3 align="center"> To perform this we are going to train a RBF Regression model to identify pixels that do not follow the trend. </h3>
