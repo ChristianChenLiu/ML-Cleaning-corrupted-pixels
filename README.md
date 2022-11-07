@@ -4,5 +4,5 @@
 
 # ML-Cleaning-corrupted-pixels
 
-Training a Machine Learning model to clean corrupted pixels in images with an appropriate estimation the pixel ought to have been there instead.
-![alt text](https://github.com/ChristianChenLiu/ReadmeAssets/blob/main/How-it-works.png)
+Cleaning corrupted pixels in images with an appropriate estimation of the pixel that ought to have been there instead with Machine Learning.
+![alt text](https://github.com/ChristianChenLiu/ReadmeAssets/blob/main/How_it_works.png)
